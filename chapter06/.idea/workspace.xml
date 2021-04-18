@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="111f872c-7f0a-4a6a-ac84-f940412e56bd" name="Default Changelist" comment="" />
+    <list default="true" id="111f872c-7f0a-4a6a-ac84-f940412e56bd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/image-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/image-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/image-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/image-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/image-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/image-6.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/image-7.png" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,28 +55,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="chapter06" type="b2602c69:ProjectViewProjectNode" />
-              <item name="chapter06" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1618639572703" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1618639633877" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.idesettings.debugger.python" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -95,9 +99,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="573" y="23" width="867" height="801" extended-state="0" />
+    <frame x="780" y="23" width="660" height="801" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25333333" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3381877" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -111,7 +115,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32863188" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.538787" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
